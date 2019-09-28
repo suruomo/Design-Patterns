@@ -4,25 +4,26 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 产品类：披萨
  * @author 苏若墨
  */
 public class Pizza {
     /**
      * 名称
      */
-    private String name;
+     String name;
     /**
      * 面团类型
      */
-    private String dough;
+     String dough;
     /**
      * 酱料类型
      */
-    private String sauce;
+     String sauce;
     /**
      * 一套佐料
      */
-    private List<String> toppings=new ArrayList<>();
+     List<String> toppings=new ArrayList<>();
 
     /**
      * 准备工作
