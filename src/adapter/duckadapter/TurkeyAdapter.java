@@ -1,4 +1,4 @@
-package adapter.demo;
+package adapter.duckadapter;
 
 /**
  * 适配器：用火鸡对象冒充鸭子对象

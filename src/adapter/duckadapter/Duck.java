@@ -1,4 +1,4 @@
-package adapter.demo;
+package adapter.duckadapter;
 
 /**
  * 鸭子接口
