@@ -2,7 +2,7 @@ package iterator;
 
 import java.util.Iterator;
 
-/**p
+/**
  * 女招待员代码
  * @author 苏若墨
  */
